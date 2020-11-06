@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTIForm", "CTIForm\CTIForm.csproj", "{D92066C0-015E-4D99-8D29-0EFD17700BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AX300", "AX300\AX300.csproj", "{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doshin", "Doshin\Doshin.csproj", "{A0DE26FF-A088-4CDA-9B4D-AEB789854606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTIService", "CTIService\CTIService.csproj", "{03A233AF-76C2-42A1-B74D-EFA6E662C804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTIClient", "CTIClient\CTIClient.csproj", "{848A855C-D371-4071-99A6-4A38AD994374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Debug|x86.Build.0 = Debug|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Release|x86.ActiveCfg = Release|Any CPU
+		{D92066C0-015E-4D99-8D29-0EFD17700BE5}.Release|x86.Build.0 = Release|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Debug|x86.Build.0 = Debug|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Release|x86.ActiveCfg = Release|Any CPU
+		{28927C1F-229F-4DFB-991E-FD21EDCE8FCA}.Release|x86.Build.0 = Release|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0DE26FF-A088-4CDA-9B4D-AEB789854606}.Release|x86.Build.0 = Release|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Debug|x86.Build.0 = Debug|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Release|x86.ActiveCfg = Release|Any CPU
+		{03A233AF-76C2-42A1-B74D-EFA6E662C804}.Release|x86.Build.0 = Release|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Debug|x86.Build.0 = Debug|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Release|x86.ActiveCfg = Release|Any CPU
+		{848A855C-D371-4071-99A6-4A38AD994374}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD206EAE-6536-43B4-ADAA-84E4A921426E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://do-support.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AX300\\AX300.csproj
+		SccProjectName1 = AX300
+		SccLocalPath1 = AX300
+		SccProjectUniqueName2 = CTIForm\\CTIForm.csproj
+		SccProjectName2 = CTIForm
+		SccLocalPath2 = CTIForm
+		SccProjectUniqueName3 = Doshin\\Doshin.csproj
+		SccProjectName3 = Doshin
+		SccLocalPath3 = Doshin
+		SccProjectUniqueName4 = CTIService\\CTIService.csproj
+		SccProjectName4 = CTIService
+		SccLocalPath4 = CTIService
+		SccProjectUniqueName5 = CTIClient\\CTIClient.csproj
+		SccProjectName5 = CTIClient
+		SccLocalPath5 = CTIClient
+	EndGlobalSection
+EndGlobal
